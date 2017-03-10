@@ -44,7 +44,5 @@ ACTION PLAN
 1. week: the preparation description of the game, technology and other information in Polish and English.
 2. week: creation of the game screen, upload images , adding the basic variables, adding the size of the game screen
 3. week: create spawn and moving zombies, create a character movement, rotating him, add a picture of zombies and characters, adding the ability to shoot and eliminate zombies
-
-4 week: adding restrictions of ammunition in weapons, preparing to run the game stably, preparing presentations in English.
-
+4. week: adding restrictions of ammunition in weapons, preparing to run the game stably, preparing presentations in English.
 5-6 weeks: adding functionality described above, adding sounds to the game, testing the game looking for errors or mistakes, the final presentation of the game
